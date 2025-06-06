@@ -8,6 +8,10 @@ Finally got some time to upload and organize my AI-related links. Bear with me p
 
 * [ChatGPT guidance on models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)
 
+## Solid tools you know about already
+
+* [Consensus.app, AI-powered scientific research-backed search engine](https://consensus.app/)
+
 ## Research
 
 Coming soon 
