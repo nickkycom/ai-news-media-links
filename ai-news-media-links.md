@@ -18,7 +18,7 @@ Coming soon
 
 ## Books
 
-Coming soon
+* [The LM Book by Andriy Burkov](https://thelmbook.com/)
 
 ## Unsorted
 
