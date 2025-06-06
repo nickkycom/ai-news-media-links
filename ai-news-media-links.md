@@ -22,7 +22,7 @@ Coming soon
 
 ## Unsorted
 
-* **LINK 1** DESCR
+* **LINK 1** [Poynter](https://www.poynter.org/commentary/2025/journalism-crisis-moment-ai/)
 
 * **LINK 2** DESCR
                                                 
