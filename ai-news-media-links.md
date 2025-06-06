@@ -27,7 +27,7 @@ Coming soon
 ## Unsorted
 
 * **LINK 1** [Poynter](https://www.poynter.org/commentary/2025/journalism-crisis-moment-ai/)
-
+* From Neon team (Arseny) - [App.Build - An open-source AI agent that builds full-stack apps](https://www.app.build/) 
 * [Misc stuff - research + LLM quickstart instructions in Russian](https://researchim-ai.github.io) 
                                                 
 **Thank you**
