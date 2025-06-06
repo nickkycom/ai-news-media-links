@@ -24,7 +24,7 @@ Coming soon
 
 * **LINK 1** [Poynter](https://www.poynter.org/commentary/2025/journalism-crisis-moment-ai/)
 
-* **LINK 2** DESCR
+* [Misc stuff - research + LLM quickstart instructions in Russian](https://researchim-ai.github.io) 
                                                 
 **Thank you**
 
