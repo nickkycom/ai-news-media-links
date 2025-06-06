@@ -27,5 +27,7 @@ Coming soon
 * **LINK 2** DESCR
                                                 
 **Thank you**
+
 v0.1, June 2025
+
 Put together by Mikalai Shchatsko / Nick Shchetko / Nickky
