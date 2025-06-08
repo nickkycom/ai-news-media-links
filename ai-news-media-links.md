@@ -28,6 +28,7 @@ Coming soon
 ## Vibe-coding etc
 
 * [Replit](https://replit.com/) + discussions [POST1](https://www.facebook.com/a.pisarevsky/posts/pfbid02T6Tp3Pf7sC28TjRvrHHzGz16vFDNQ3x8yFh4whyDLzrtdXP1QNH57C4y9dRBrEyEl)  
+* [Lovable](https://lovable.dev) 
 
 ## Books
 
