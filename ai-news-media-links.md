@@ -20,6 +20,15 @@ Coming soon
 
 Coming soon
 
+## Communities/SM etc
+
+* [Reddit AI-agents - Job stuff](https://www.reddit.com/r/AI_Agents/comments/1kvti1h/automate_your_job_search_with_ai_what_we_built/)
+* [n8n FB group mostly BS](https://www.facebook.com/groups/979398969285885)
+
+## Vibe-coding etc
+
+* [Replit](https://replit.com/) + discussions [POST1](https://www.facebook.com/a.pisarevsky/posts/pfbid02T6Tp3Pf7sC28TjRvrHHzGz16vFDNQ3x8yFh4whyDLzrtdXP1QNH57C4y9dRBrEyEl)  
+
 ## Books
 
 * [The LM Book by Andriy Burkov](https://thelmbook.com/)
