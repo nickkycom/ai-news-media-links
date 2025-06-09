@@ -14,6 +14,10 @@ Finally got some time to upload and organize my AI-related links. Bear with me p
 
 ## Research
 
+## Local tools
+
+* [Jan - "Local ChatGPT"](https://jan.ai/)
+
 Coming soon 
 
 ## Articles 
