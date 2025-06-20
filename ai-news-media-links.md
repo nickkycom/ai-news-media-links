@@ -16,6 +16,10 @@ Finally got some time to upload and organize my AI-related links. Bear with me p
 
 ## Research
 
+## AI Agents
+
+* [AI Agents subreddit](https://www.reddit.com/r/AI_Agents/)
+
 ## Local tools
 
 * [Jan - "Local ChatGPT"](https://jan.ai/)
