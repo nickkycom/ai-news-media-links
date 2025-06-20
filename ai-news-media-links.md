@@ -29,6 +29,7 @@ Coming soon
 ## To check out
 
 * [HuggingFace AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+* [Tutorial: Training a Document Classifier by a Taxonomy](https://github.com/aburkov/theLMbook/blob/main/document_classifier_with_LLMs_as_labelers.ipynb)
 
 ## Articles 
 
