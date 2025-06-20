@@ -7,6 +7,7 @@ Finally got some time to upload and organize my AI-related links. Bear with me p
 ## Foundational models
 
 * [ChatGPT guidance on models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)
+* [OpenAI API](https://platform.openai.com/)
 
 ## Solid tools you know about already
 
