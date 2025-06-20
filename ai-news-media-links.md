@@ -21,6 +21,10 @@ Finally got some time to upload and organize my AI-related links. Bear with me p
 
 Coming soon 
 
+## To check out
+
+* [HuggingFace AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+
 ## Articles 
 
 Coming soon
