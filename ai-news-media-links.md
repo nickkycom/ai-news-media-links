@@ -11,6 +11,7 @@ Finally got some time to upload and organize my AI-related links. Bear with me p
 
 ## Solid tools you know about already
 
+* [OpenRouter multiple models 1 API](https://openrouter.ai/)
 * [Consensus.app, AI-powered scientific research-backed search engine](https://consensus.app/)
 
 ## Research
