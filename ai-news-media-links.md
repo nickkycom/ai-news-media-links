@@ -16,6 +16,11 @@ Finally got some time to upload and organize my AI-related links. Bear with me p
 
 ## Research
 
+## Lists 
+
+* [AI Initiatives in News Media - Europe](https://aifornewsroom.in/)
+* [86 expert voices at the intersection of AI and journalism](https://www.journalism.co.uk/news/who-to-follow-85-expert-voices-at-the-intersection-of-ai-and-journalism/s2/a1254807/)
+
 ## AI Agents
 
 * [AI Agents subreddit](https://www.reddit.com/r/AI_Agents/)
