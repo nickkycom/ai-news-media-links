@@ -9,6 +9,10 @@ Finally got some time to upload and organize my AI-related links. Bear with me p
 * [ChatGPT guidance on models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)
 * [OpenAI API](https://platform.openai.com/)
 
+## Reports
+
+* [Menlo ventures: AI’s Consumer Tipping Point Has Arrived More than half of American adults (61%) have used AI in the past six months, and nearly one in five rely on it every day](https://menlovc.com/perspective/2025-the-state-of-consumer-ai/)
+
 ## Solid tools you know about already
 
 * [OpenRouter multiple models 1 API](https://openrouter.ai/)
