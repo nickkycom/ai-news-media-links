@@ -52,7 +52,7 @@ Coming soon
 ## Vibe-coding etc
 
 * [Replit](https://replit.com/) + discussions [POST1](https://www.facebook.com/a.pisarevsky/posts/pfbid02T6Tp3Pf7sC28TjRvrHHzGz16vFDNQ3x8yFh4whyDLzrtdXP1QNH57C4y9dRBrEyEl)  
-* [Lovable](https://lovable.dev) 
+* [Lovable](https://lovable.dev)
 
 ## Books
 
@@ -60,7 +60,8 @@ Coming soon
 
 ## Unsorted
 
-* [An Overview of Catastrophic AI Risks](https://safe.ai/ai-risk) 
+* [An Overview of Catastrophic AI Risks](https://safe.ai/ai-risk)
+* [Bunch of fun Computer Vision demos for $10 access to a private github](https://www.funwithcomputervision.com/) 
 * **LINK 1** [Poynter](https://www.poynter.org/commentary/2025/journalism-crisis-moment-ai/)
 * From Neon team (Arseny) - [App.Build - An open-source AI agent that builds full-stack apps](https://www.app.build/) 
 * [Misc stuff - research + LLM quickstart instructions in Russian](https://researchim-ai.github.io) 
