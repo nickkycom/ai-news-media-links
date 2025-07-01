@@ -42,7 +42,7 @@ Coming soon
 
 ## Articles 
 
-Coming soon
+* [LOL: Claude's "Project Vend" went sideways - Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 
 ## Communities/SM etc
 
