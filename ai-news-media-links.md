@@ -65,7 +65,9 @@ Coming soon
 * [Bunch of fun Computer Vision demos for $10 access to a private github](https://www.funwithcomputervision.com/) 
 * **LINK 1** [Poynter](https://www.poynter.org/commentary/2025/journalism-crisis-moment-ai/)
 * From Neon team (Arseny) - [App.Build - An open-source AI agent that builds full-stack apps](https://www.app.build/) 
-* [Misc stuff - research + LLM quickstart instructions in Russian](https://researchim-ai.github.io) 
+* [Misc stuff - research + LLM quickstart instructions in Russian](https://researchim-ai.github.io)
+* [Coding with LLMs in the summer of 2025 - an update](https://antirez.com/news/154)
+
                                                 
 **Thank you**
 
