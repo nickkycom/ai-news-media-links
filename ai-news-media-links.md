@@ -44,6 +44,9 @@ Coming soon
 ## Articles 
 
 * [LOL: Claude's "Project Vend" went sideways - Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
+* [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
+* [AccountingBench: Evaluating LLMs оп Real Long-Horizon Business Tasks](https://accounting.penrose.com/)
+
 
 ## Communities/SM etc
 
