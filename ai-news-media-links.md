@@ -39,6 +39,7 @@ Coming soon
 
 * [HuggingFace AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
 * [Tutorial: Training a Document Classifier by a Taxonomy](https://github.com/aburkov/theLMbook/blob/main/document_classifier_with_LLMs_as_labelers.ipynb)
+* [Open-source CLI toolkit for low-RAM finetuning, quantization, and deployment of LLMs](https://github.com/diptanshu1991/LoFT)
 
 ## Articles 
 
