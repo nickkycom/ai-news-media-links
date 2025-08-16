@@ -9,15 +9,13 @@ Bear with me plz as I work through my huge messy library and turn it into someth
 
 * [GPT5 System Card](https://cdn.openai.com/pdf/8124a3ce-ab78-4f06-96eb-49ea29ffb52f/gpt5-system-card-aug7.pdf)
 * [GPT5 AMA](https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/)
-* [GPT5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) 
+* [GPT5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
 * [An Overview of Catastrophic AI Risks](https://safe.ai/ai-risk)
 * [Bunch of fun Computer Vision demos for $10 access to a private github](https://www.funwithcomputervision.com/) 
 * [Poynter](https://www.poynter.org/commentary/2025/journalism-crisis-moment-ai/)
 * From Neon team (Arseny) - [App.Build - An open-source AI agent that builds full-stack apps](https://www.app.build/) 
 * [Misc stuff - research + LLM quickstart instructions in Russian](https://researchim-ai.github.io)
 * [Coding with LLMs in the summer of 2025 - an update](https://antirez.com/news/154)
-
-## Somewhat sorted:
 
 ## Local LLMs
 
@@ -28,7 +26,8 @@ Bear with me plz as I work through my huge messy library and turn it into someth
 ## Reports/articles 
  
 * [Microsoft Research. Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/pdf/2507.07935)
-* [Menlo ventures: AI’s Consumer Tipping Point Has Arrived More than half of American adults (61%) have used AI in the past six months, and nearly one in five rely on it every day](https://menlovc.com/perspective/2025-the-state-of-consumer-ai/)
+* [Reuters Institute Digital News Report 2025](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf)
+* [2025: The State of Consumer AI](https://menlovc.com/perspective/2025-the-state-of-consumer-ai/)
 * [LOL: Claude's "Project Vend" went sideways - Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 * [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
 * [AccountingBench: Evaluating LLMs оп Real Long-Horizon Business Tasks](https://accounting.penrose.com/)
