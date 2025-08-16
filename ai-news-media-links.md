@@ -2,12 +2,26 @@
 
 ## Intro
 
-Finally got some time to upload and organize my AI-related links. Bear with me plz as I work through my huge messy library.
+(Barely) organized list of some AI-related links. Bear with me plz as I work through my huge messy library.
 
-## Foundational models
+## Foundational models: LLMs and others
 
 * [ChatGPT guidance on models](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)
 * [OpenAI API](https://platform.openai.com/)
+* [Claude](http://claude.ai/)
+* [Gemini](https://gemini.google.com/)
+* [List - Wiki](https://en.wikipedia.org/wiki/List_of_large_language_models)
+* [Perplexity](https://www.perplexity.ai/)
+
+## GenAI Browsers
+
+* [Perplexity Comet](https://www.perplexity.ai/comet)
+
+## Local LLMs
+
+* [PrivateGPT](https://github.com/zylon-ai/private-gpt)
+* [GPT-OSS Unsloth](https://docs.unsloth.ai/basics/gpt-oss-how-to-run-and-fine-tune)
+* 
 
 ## Reports
 
