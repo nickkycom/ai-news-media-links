@@ -2,7 +2,8 @@
 
 ## Intro
 
-(Barely) organized list of some AI-related links. Bear with me plz as I work through my huge messy library.
+(Barely) organized list of some AI-related links. 
+Bear with me plz as I work through my huge messy library.
 
 ## Foundational models: LLMs and others
 
@@ -21,7 +22,7 @@
 
 * [PrivateGPT](https://github.com/zylon-ai/private-gpt)
 * [GPT-OSS Unsloth](https://docs.unsloth.ai/basics/gpt-oss-how-to-run-and-fine-tune)
-* 
+* [Jan - "Local ChatGPT"](https://jan.ai/)
 
 ## Reports
 
@@ -34,6 +35,8 @@
 
 ## Research
 
+* 
+
 ## Lists 
 
 * [AI Initiatives in News Media - Europe](https://aifornewsroom.in/)
@@ -42,12 +45,6 @@
 ## AI Agents
 
 * [AI Agents subreddit](https://www.reddit.com/r/AI_Agents/)
-
-## Local tools
-
-* [Jan - "Local ChatGPT"](https://jan.ai/)
-
-Coming soon 
 
 ## To check out
 
@@ -60,7 +57,6 @@ Coming soon
 * [LOL: Claude's "Project Vend" went sideways - Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 * [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)
 * [AccountingBench: Evaluating LLMs оп Real Long-Horizon Business Tasks](https://accounting.penrose.com/)
-
 
 ## Communities/SM etc
 
@@ -76,11 +72,12 @@ Coming soon
 
 * [The LM Book by Andriy Burkov](https://thelmbook.com/)
 
-## Unsorted
+## Unsorted / To read
 
+* [GPT5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) 
 * [An Overview of Catastrophic AI Risks](https://safe.ai/ai-risk)
 * [Bunch of fun Computer Vision demos for $10 access to a private github](https://www.funwithcomputervision.com/) 
-* **LINK 1** [Poynter](https://www.poynter.org/commentary/2025/journalism-crisis-moment-ai/)
+* [Poynter](https://www.poynter.org/commentary/2025/journalism-crisis-moment-ai/)
 * From Neon team (Arseny) - [App.Build - An open-source AI agent that builds full-stack apps](https://www.app.build/) 
 * [Misc stuff - research + LLM quickstart instructions in Russian](https://researchim-ai.github.io)
 * [Coding with LLMs in the summer of 2025 - an update](https://antirez.com/news/154)
@@ -88,6 +85,5 @@ Coming soon
                                                 
 **Thank you**
 
-v0.4, July 2025
-
+v0.5, August 2025
 Put together by Mikalai Shchatsko / Nick Shchetko / Nickky
