@@ -74,6 +74,7 @@ Bear with me plz as I work through my huge messy library.
 
 ## Unsorted / To read
 
+* [GPT5 AMA](https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/)
 * [GPT5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) 
 * [An Overview of Catastrophic AI Risks](https://safe.ai/ai-risk)
 * [Bunch of fun Computer Vision demos for $10 access to a private github](https://www.funwithcomputervision.com/) 
