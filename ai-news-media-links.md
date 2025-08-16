@@ -26,6 +26,7 @@ Bear with me plz as I work through my huge messy library and turn it into someth
 ## Reports/articles 
  
 * [Microsoft Research. Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/pdf/2507.07935)
+* [Stanford HAI Artificial Intelligence Index Report 2025](https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf)
 * [Reuters Institute Digital News Report 2025](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf)
 * [2025: The State of Consumer AI](https://menlovc.com/perspective/2025-the-state-of-consumer-ai/)
 * [LOL: Claude's "Project Vend" went sideways - Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
