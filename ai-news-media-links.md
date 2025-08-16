@@ -22,11 +22,14 @@ Bear with me plz as I work through my huge messy library and turn it into someth
 * [PrivateGPT](https://github.com/zylon-ai/private-gpt)
 * [GPT-OSS Unsloth](https://docs.unsloth.ai/basics/gpt-oss-how-to-run-and-fine-tune)
 * [Jan - "Local ChatGPT"](https://jan.ai/)
+* [10 Best Small Local LLMs to Try Out < 8GB](https://apidog.com/blog/small-local-llm/)
+* [Some local LLMs ideas + meme - reddit](https://www.reddit.com/r/LocalLLaMA/comments/1ms4n55/what_does_it_feel_like_cloud_llm_vs_local_llm/)
 
 ## Reports/articles 
  
 * [Microsoft Research. Working with AI: Measuring the Occupational Implications of Generative AI](https://arxiv.org/pdf/2507.07935)
 * [Stanford HAI Artificial Intelligence Index Report 2025](https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf)
+* [BOND - Mary Meeker - Trends - Artificial Intelligence](https://www.bondcap.com/report/tai/#view/0)
 * [Reuters Institute Digital News Report 2025](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf)
 * [2025: The State of Consumer AI](https://menlovc.com/perspective/2025-the-state-of-consumer-ai/)
 * [LOL: Claude's "Project Vend" went sideways - Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
