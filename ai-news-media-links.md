@@ -3,7 +3,7 @@
 ## Intro
 
 Barely organized list of some AI-related links from various bookmarks lists and devices. 
-Bear with me plz as I work through my huge messy library and turn it into something useable.
+Bear with me plz as I work through my huge messy library and turn it into something usable.
 
 ## Unsorted / To read
 
