@@ -7,6 +7,8 @@ Bear with me plz as I work through my huge messy library and turn it into someth
 
 ## Unsorted / To read
 
+* [The State of AI  in the Newsroom  Framing the Impact of AI Beyond Workflow Automation in 2025 - Digiday + arcxp](https://info.arcxp.com/hubfs/Downloadable%20files/Digiday_State_of_AI_in_the_Newsroom_Report.pdf)
+*
 * [GPT5 System Card](https://cdn.openai.com/pdf/8124a3ce-ab78-4f06-96eb-49ea29ffb52f/gpt5-system-card-aug7.pdf)
 * [GPT5 AMA](https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/)
 * [GPT5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
@@ -22,8 +24,11 @@ Bear with me plz as I work through my huge messy library and turn it into someth
 * [PrivateGPT](https://github.com/zylon-ai/private-gpt)
 * [GPT-OSS Unsloth](https://docs.unsloth.ai/basics/gpt-oss-how-to-run-and-fine-tune)
 * [Jan - "Local ChatGPT"](https://jan.ai/)
+* [Best tools to run LLMs locally](https://getstream.io/blog/best-local-llm-tools/)
 * [10 Best Small Local LLMs to Try Out < 8GB](https://apidog.com/blog/small-local-llm/)
 * [Some local LLMs ideas + meme - reddit](https://www.reddit.com/r/LocalLLaMA/comments/1ms4n55/what_does_it_feel_like_cloud_llm_vs_local_llm/)
+* [Best local LLMs? reddit](https://www.reddit.com/r/LocalLLaMA/comments/1luk04f/is_there_any_local_llm_that_comes_close_to_gpt4/)
+* [The Best Local LLMs To Run On Every Mac -Apple Silicon](https://apxml.com/posts/best-local-llm-apple-silicon-mac)
 
 ## Reports/articles 
  
