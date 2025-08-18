@@ -8,7 +8,7 @@ Bear with me plz as I work through my huge messy library and turn it into someth
 ## Unsorted / To read
 
 * [The State of AI  in the Newsroom  Framing the Impact of AI Beyond Workflow Automation in 2025 - Digiday + arcxp](https://info.arcxp.com/hubfs/Downloadable%20files/Digiday_State_of_AI_in_the_Newsroom_Report.pdf)
-*
+* [LLMs from scratch - repo + book](https://github.com/rasbt/LLMs-from-scratch)
 * [GPT5 System Card](https://cdn.openai.com/pdf/8124a3ce-ab78-4f06-96eb-49ea29ffb52f/gpt5-system-card-aug7.pdf)
 * [GPT5 AMA](https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/)
 * [GPT5 Prompting Guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
