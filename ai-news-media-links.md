@@ -7,7 +7,7 @@ Bear with me plz as I work through my huge messy library and turn it into someth
 
 ## Unsorted / To read
 
-* [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+* [Signs of AI writing - WIKI](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 * [TIME100 AI 2025](https://time.com/collections/time100-ai-2025/)
 * [Github: VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models)
 * [The State of AI  in the Newsroom  Framing the Impact of AI Beyond Workflow Automation in 2025 - Digiday + arcxp](https://info.arcxp.com/hubfs/Downloadable%20files/Digiday_State_of_AI_in_the_Newsroom_Report.pdf)
